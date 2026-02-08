@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-16T00:53:49.386+1200"/>
+        <logs message="Error cnt : 447&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '447'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-16T00:53:49.378+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-16T00:46:44.170+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T13:45:45.983+1200"/>
+        <logs message="Error cnt : 265&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '265'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T13:45:45.977+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T13:45:04.858+1200"/>
+        <logs message="Error cnt : 262&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '262'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T13:45:04.853+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T13:33:58.758+1200"/>
+        <logs message="Error cnt : 270&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '270'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T13:33:58.754+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T12:17:40.880+1200"/>
+        <logs message="Error cnt : 270&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '270'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T12:17:40.873+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T12:10:33.150+1200"/>
+        <logs message="Error cnt : 270&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '270'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T12:10:33.144+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T12:08:53.720+1200"/>
+        <logs message="Error cnt : 438&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '438'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T12:08:53.714+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T12:07:38.099+1200"/>
+        <logs message="Error cnt : 232&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '232'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-11T12:07:38.075+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T22:22:48.538+1200"/>
+        <logs message="Error cnt : 51&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '51'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T22:22:48.532+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T20:35:16.922+1200"/>
+        <logs message="Error cnt : 83&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '83'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T20:35:16.917+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T15:25:10.111+1200"/>
+        <logs message="Error cnt : 96&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '96'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T15:25:10.105+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T15:22:17.753+1200"/>
+        <logs message="Error cnt : 96&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '96'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T15:22:17.747+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T14:11:31.975+1200"/>
+        <logs message="Error cnt : 52&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '52'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T14:11:31.968+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T14:10:34.815+1200"/>
+        <logs message="Error cnt : 52&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '52'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T14:10:34.806+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T12:35:52.831+1200"/>
+        <logs message="Error cnt : 60&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '60'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T12:35:52.825+1200"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T08:43:31.498+1200"/>
+        <logs message="Error cnt : 49&#xD;&#xA;@E Simulation failed: Function 'main' returns nonzero value '49'." projectName="jscc_6bit_min_sum_hdl" solutionName="solution1" date="2022-05-05T08:43:31.493+1200"/>
+      </csimLog>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>
